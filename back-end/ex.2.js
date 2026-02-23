@@ -1,50 +1,78 @@
-**1.** O que é o **Node.js**?
-Explique sua finalidade e por que ele é considerado um ambiente de execução e não uma linguagem de programação.
+### **1. O que é o Node.js?**
+
+O **Node.js** é um ambiente de execução que permite rodar JavaScript fora do navegador, principalmente no servidor.
 
 ---
 
-**2.** Qual a diferença entre **Node.js** e **JavaScript executado no navegador**?
-Cite pelo menos **duas diferenças**.
+### **2. O Node.js usa qual linguagem de programação?**
+
+Ele utiliza **JavaScript**.
 
 ---
 
-**3.** O que é o **V8 Engine** e qual sua importância para o funcionamento do Node.js?
+### **3. O Node.js roda no navegador ou fora dele?**
+
+Roda **fora do navegador**, no servidor ou no terminal.
 
 ---
 
-**4.** Explique o conceito de **I/O não bloqueante** no Node.js.
-Por que isso melhora o desempenho de aplicações?
+### **4. Para que serve o Node.js?**
+
+Serve para:
+
+* Criar aplicações back-end
+* Desenvolver APIs
+* Criar servidores web
+* Trabalhar com banco de dados
+* Construir aplicações em tempo real
 
 ---
 
-**5.** O que é o **Event Loop**?
-Descreva, de forma resumida, como ele funciona.
+### **5. Qual comando é usado para executar um arquivo Node.js no terminal?**
+
+```bash
+node nomeDoArquivo.js
+```
+
+Exemplo:
+
+```bash
+node app.js
+```
 
 ---
 
-**6.** O que são **módulos** no Node.js?
-Explique a diferença entre:
+### **6. O que é o npm?**
 
-* Módulos internos
-* Módulos externos
-* Módulos criados pelo desenvolvedor
+O **npm** é o gerenciador de pacotes do Node.js, usado para instalar e gerenciar bibliotecas e dependências.
 
 ---
 
-**7.** Para que serve o arquivo **package.json** em um projeto Node.js?
-Cite pelo menos **três informações** que ele pode conter.
+### **7. O que significa a palavra módulo no Node.js?**
+
+Módulo é um arquivo ou biblioteca que contém código reutilizável, usado para organizar e dividir o projeto.
 
 ---
 
-**8.** O que é o **npm**?
-Explique sua função no desenvolvimento de aplicações Node.js.
+### **8. O Node.js é mais usado no front-end ou no back-end?**
+
+É mais utilizado no **back-end**.
 
 ---
 
-**9.** O que é uma **API REST** e como o Node.js pode ser usado para desenvolvê-la?
+### **9. O que é o arquivo package.json?**
+
+É o arquivo que contém as informações do projeto, como:
+
+* Nome
+* Versão
+* Dependências
+* Scripts
 
 ---
 
-**10.** Cite **duas vantagens** e **duas desvantagens** do uso do Node.js em aplicações web.
+### **10. O Node.js é gratuito ou pago?**
+
+O Node.js é **gratuito e de código aberto (open source)**.
 
 ---
